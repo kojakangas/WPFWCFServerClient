@@ -1,0 +1,14 @@
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\ChattingServer.exe.config
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\ChattingServer.exe
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\ChattingServer.pdb
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\ChattingInterfaces.dll
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\EntityFramework.dll
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\MySql.Data.dll
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\mysql.data.entity.EF6.dll
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\EntityFramework.xml
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\obj\Debug\ChattingServer.exe
+c:\Users\KOEMXE\Documents\Visual Studio 2012\Projects\ChatApplication\ChattingServer\obj\Debug\ChattingServer.pdb
